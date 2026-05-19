@@ -1,0 +1,19 @@
+algoritmo "CalculadoraDeMedida"
+
+var
+  soma_notas: real
+  qtd_notas: inteiro
+  nota_digitada: real
+  media_turma: real
+
+inicio
+
+  soma_notas :=0
+  qtd_notas :=0
+
+  escreval ("Digite a nota do alunno (ou -1 calcular a média)")
+  leia(nota_digitada)
+
+
+
+
